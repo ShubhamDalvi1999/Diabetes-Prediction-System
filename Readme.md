@@ -3,6 +3,7 @@
 ## Project Overview
 This project develops a machine learning model to predict diabetes in patients based on diagnostic measurements. Using the PIMA Indians Diabetes Dataset, we build and compare several classification algorithms to identify the most effective approach for early diabetes detection.
 
+
 ## Objectives
 - Analyze factors that influence diabetes diagnosis
 - Develop accurate prediction models for early diabetes detection
@@ -88,8 +89,9 @@ We implemented and evaluated several machine learning algorithms:
   - BMI
   - DiabetesPedigreeFunction
 
-![Model Performance Comparison](PE_diabetes.jpeg)
-![ROC Curves](roc_diabetes.jpeg)
+![Performace_Diabetes_Prediction_Models](https://github.com/user-attachments/assets/d7962f83-e78b-4f36-a5b7-790bb53071eb)
+![ROC_Curves_Diabetes_Prediction_Models](https://github.com/user-attachments/assets/01282188-9027-4107-8b88-0431a38eb1ab)
+
 
 ## Conclusion
 This project demonstrates the effectiveness of ensemble methods (particularly XGBoost and Gradient Boosting) for diabetes prediction. The models developed could potentially serve as valuable screening tools in healthcare settings, helping identify patients at risk of diabetes for further clinical evaluation.
